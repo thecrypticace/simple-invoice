@@ -1,4 +1,4 @@
-// BNP Paribas Fortis
+// Mint
 
 import { parse } from 'date-fns'
 import fs from 'fs'
